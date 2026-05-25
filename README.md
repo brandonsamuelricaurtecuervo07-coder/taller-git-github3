@@ -1,2 +1,30 @@
-# taller-git-github3
-Repositorio de practica para aprender Git y GitHub
+# \# Taller Git y GitHub
+
+# 
+
+# Este repositorio fue creado como práctica de clase.
+
+# 
+
+# \## Integrante
+
+# 
+
+# \- Brandon Samuel Ricaurte Cuervo
+
+# 
+
+# \## Comandos aprendidos
+
+# 
+
+# \- git clone
+
+# \- git status
+
+# \- git add
+
+# \- git commit
+
+# \- git push
+
